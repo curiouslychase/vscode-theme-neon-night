@@ -5,19 +5,19 @@
 
 > A dark theme for VS Code
 
-![Full Preview](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/full-preview.png)
+![Full Preview](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/full-preview.png)
 
 | JavaScript | React | Vue |
 |:---:|:---:|:---:|
-| ![JavaScript Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/javascript.png) |![React Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/react.png) | ![Vue Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/vue.png) |
+| ![JavaScript Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/javascript.png) |![React Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/react.png) | ![Vue Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/vue.png) |
 
 | Go | Dockerfile | HTML |
 |:---:|:---:|:---:|
-| ![Go Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/go.png) | ![Dockerfile screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/docker.png) | ![HTML Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/html.png) |
+| ![Go Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/go.png) | ![Dockerfile screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/docker.png) | ![HTML Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/html.png) |
 
 | JSON | TOML | YAML |
 |:---:|:---:|:---:|
-| ![JSON Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/json.png) | ![TOML Screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/toml.png) | ![YAML screen](https://github.com/chaseadamsio/vscode-theme-neon-night/blob/mainline/static/preview/yaml.png)
+| ![JSON Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/json.png) | ![TOML Screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/toml.png) | ![YAML screen](https://github.com/curiouslychase/vscode-theme-neon-night/blob/mainline/static/preview/yaml.png)
 
 
 ## Getting Started
@@ -67,4 +67,4 @@ This will create a symlink in the VS Code extensions and build the theme for the
 - **`prepublish`** - Creates the `neon-night.json` and `package.json` in `<ROOT>/themes` and copies relevant files (README, license, static assets)
 - **`vscode:publish`** - Publishes `themes` as the root directory for the extension.
 
-Designed with 💜 by **[Chase Adams](https://github.com/chaseadamsio)**. You can find me on [Twitter at chaseadamsio](https://twitter.com/chaseadamsio).
+Designed with 💜 by **[Chase Adams](https://github.com/curiouslychase)**. You can find me on [Twitter at chaseadamsio](https://twitter.com/chaseadamsio).
